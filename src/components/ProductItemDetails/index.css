@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.loader {
+  padding: 10px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.img1 {
+  width: 40vw;
+  border-radius: 12px;
+}
+.btn1 {
+  background-color: #3b82f6;
+  border-radius: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  border: 0px;
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+}
+.btn12 {
+  background-color: #3b82f6;
+  border-radius: 12px;
+  color: white;
+  border: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 10px;
+}
+.img2 {
+  height: 30px;
+  width: 30px;
+}
+.two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+}
+.one {
+  display: flex;
+  flex-direction: row;
+}
+.one1 {
+  display: flex;
+  margin: 20px;
+}
+span {
+  font-weight: bold;
+}
+.img1 {
+  margin-right: 20px;
+}
+.one2 {
+  display: flex;
+}
+.btn2 {
+  height: 20px;
+}
+.para {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+}
+.heading1 {
+  margin: 20px;
+}
+.img123 {
+  height: 200px;
+  width: 200px;
+}
+.one123 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
